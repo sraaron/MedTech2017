@@ -1,7 +1,0 @@
-#Fri Jun 23 11:55:14 HKT 2017
-base.0=/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c6f00b85d88a87e78b38c66c9065fb0084d96502
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_277fb512f5b623b64245a397ae02f43ed9e696da/classes.dex
-base.1=/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_277fb512f5b623b64245a397ae02f43ed9e696da
-file.0=/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c6f00b85d88a87e78b38c66c9065fb0084d96502/classes.dex
