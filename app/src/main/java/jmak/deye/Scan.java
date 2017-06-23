@@ -12,12 +12,13 @@ import android.view.View;
 public class Scan extends AppCompatActivity {
 
     private TextView mTextMessage;
+    private Button vBtnScan;
 
-    public void buttonOnClick(View v) {
-        Button button1 = (Button) v;
-        button1.setText("Scan");
-
+    private int scan(){
+        
+        return 1;
     }
+
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
 
@@ -26,9 +27,11 @@ public class Scan extends AppCompatActivity {
             switch (item.getItemId()) {
                 case R.id.navigation_dashboard:
                     mTextMessage.setText(R.string.scan_description);
-//                    scan();
+                    vBtnScan.setVisibility(View.VISIBLE); //To set visible
+                    scan();
                     return true;
                 case R.id.navigation_notifications:
+                    vBtnScan.setVisibility(View.INVISIBLE); //To set inivisible
                     mTextMessage.setText(R.string.title_history);
                     return true;
             }
@@ -43,6 +46,7 @@ public class Scan extends AppCompatActivity {
         setContentView(R.layout.activity_scan);
 
         mTextMessage = (TextView) findViewById(R.id.message);
+        vBtnScan=(Button)findViewById(R.id.btnScan);
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
