@@ -6,35 +6,26 @@
     density="xxxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1498187976479"
+    timestamp="1498192098699"
     token="8490219888597005140"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1085" />
+        duration="820" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="100" />
+        duration="17" />
     <task
         name="verifier"
-        duration="52" />
+        duration="7" />
 
     <artifact
         location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
-    <artifact
-        location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -79,20 +70,30 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1498187976479"
+        timestamp="1498188455277"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1498190111309"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1498192098699"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>
