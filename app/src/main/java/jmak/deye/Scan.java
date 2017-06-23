@@ -30,6 +30,7 @@ public class Scan extends AppCompatActivity {
                     return true;
                 case R.id.navigation_notifications:
                     mTextMessage.setText(R.string.title_history);
+                    displayGraph();
                     return true;
             }
             return false;
@@ -37,6 +38,9 @@ public class Scan extends AppCompatActivity {
 
     };
 
+    private void displayGraph() {
+        
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
