@@ -65,15 +65,16 @@ public class Scan extends AppCompatActivity {
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
         @Override
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-            graphHistory.setVisibility(View.INVISIBLE); //sets the graphHistory to be invisible
             switch (item.getItemId()) {
                 case R.id.navigation_dashboard:
                     mTextMessage.setText(R.string.scan_description);
                     vBtnScan.setVisibility(View.VISIBLE); //To set visible
+                    graphHistory.setVisibility(View.INVISIBLE); //sets the graphHistory to be invisible
                     return true;
                 case R.id.navigation_notifications:
-                    vBtnScan.setVisibility(View.INVISIBLE); //To set inivisible
-                    mTextMessage.setText(R.string.title_history);
+                    mTextMessage.setText(R.string.history_description);
+                    vBtnScan.setVisibility(View.INVISIBLE); //sets the scan button to be invisible
+                    graphHistory.setVisibility(View.VISIBLE); //sets the graphHistory to be visible
                     return true;
             }
             return false;
