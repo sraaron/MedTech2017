@@ -3,138 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/880d5e6eb9ac226b89c84d9ea27bef2c0ab8ae90/output/jars/classes.jar"
+        jar="C:\Users\Sheshan\.android\build-cache\c3fccf2ed142f493286d401335ed34680c22b3f0\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.0"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa5a5603337f51be2647074ed01e66582ad53c8a/classes.dex" />
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51c26e57026dc4ace140e3653147e561927b1a70\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/76f1beedd6aaf7004dcead56fd4cd42a48402a49/output/jars/classes.jar"
+        jar="C:\Users\Sheshan\.android\build-cache\ea128250c0efba8589234892eb480e22a142ab4f\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.0"
-        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20d6e6f8046c7bfec1c852f85f901c09a7696555/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/9727b8f0334aef852a5f7c9a45ff8d7c8b0ff184/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81c4e93f8e0d7f97c4790293c487e4dce0f565b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/8cbce009c22d7cb19e06ae976d76946c033d32fd/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd6af20603a6558794b5bfe1e14f63cb5e54cf1c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/7335de15d7372fff836d279673564e476ea4d92f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41b9d529b5d7569ab279eb8d8064e0b32941b319/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/adcedcb1d3743353baf42a9d65a99edfc1f067ea/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31fb15e2d47a9b34bb104d6522ad272b27c20bd5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/JMak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_240ce4b06b11b8f0dbb17a0b44dbad40bf5a4246/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="eb852470e1f8023deae6893b407cc4d90c0a99ab">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c6f00b85d88a87e78b38c66c9065fb0084d96502/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/8beb7cde14e05c73ca0d13be8cc78e32eee36d20/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_781475a90148de1bc500639d5c02ded292fb7a52/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/2ac103e66ca4392810033a9b3e655fb5d4095e4e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
+        revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_baf9bf49ebf94b712b523596bfc6219b59bcbfc6/classes.dex" />
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e53c5c46e9dc918bb5a226b489bf21c09b06978e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/3424ed1a100de1343dece059dbe96cc088946783/output/jars/classes.jar"
+        jar="C:\Users\Sheshan\.android\build-cache\4516096d60d6ca28dd6d0bd188acb7bf47793a80\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.0"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47f387587f2effe494906afc03d056073d2f00d8/classes.dex" />
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c4f3238df01a7504b0cfb1ea825aa5055b86d5a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b86788895a4a727ae0d437f939262ad8719425">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5b2e64638e6b152062ebdd6c9ccdd16041c86418\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\.android\build-cache\43d34919df14ec51601488a5e590a0c3c4f9334a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4ef23587c31f98b6347b26c070ebb1b5fbf989d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\.android\build-cache\1a16f30c239761dc50a220b0c98b018f3ec3a8d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ff3d550ca4d19405a40cd129d4b75cd0d90771c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\.android\build-cache\10d5cf753ada54a767c06919100a8782ee109f3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c501785d2fc36d317c42fc6dc0477ed986c8505a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88d3cb5ec1071bc4a65d4b79a3f674d8e75c4258\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\.android\build-cache\aa3cb42088d53b1d703fa046a6b3f54ffc8024c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_986e647fc14ca555c4881e852c13eeefe6f3e539\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\.android\build-cache\ee6e8d0e235c992f6faa21140dda890c967b1704\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_930ed54205e9db8b8fb40b172776aa874f1c2802\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_aaaba9fa835a188e09df3a001949065db477ea2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_277fb512f5b623b64245a397ae02f43ed9e696da/classes.dex" />
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_88d3cb5ec1071bc4a65d4b79a3f674d8e75c4258\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/62b759e7f03805247b607e618020a6b34f4cbf3d/output/jars/classes.jar"
+        jar="C:\Users\Sheshan\.android\build-cache\fc76e285b10e9f2dd17356a1da57178bd3433920\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.0"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ca2b7baf3868a14afce73e6c119e66006c7e20a/classes.dex" />
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df0b513fedaeac3edb2e46fdaa718174ee33e41a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/25a7c26e2b21fad40f1a1262fcbe406967c26df1/output/jars/classes.jar"
+        jar="C:\Users\Sheshan\.android\build-cache\3b06fb3dad3c71c52ebe71a07f9e57f17421527e\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.0"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbb6701427d203cb7bb87accac417d932bd1ecc7/classes.dex" />
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47a0d390967e6c2d225d56b9083c2bd6216e6012\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/JMak/.android/build-cache/d4bc724292bd0b27eb8f35ae9e4e2db32294bf17/output/jars/classes.jar"
+        jar="C:\Users\Sheshan\.android\build-cache\3018d3d7b81e295328ea77d29ef40693e516736a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36c78bf7ad2645a22d6d1433ded73fba37b84eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\.android\build-cache\31714825a2ae3873e7b22213cc936d53110eedb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da8cfbdfe3ebbeb34aef51af5724f6d6c985e340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/Users/JMak/AndroidStudioProjects/MedTech2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f596f35e2345c1266f2f354e819782d7e87b8ea/classes.dex" />
+        sha1="4a20868449e981ea276ef8a362752ab9853191b2">
+        <dex dex="C:\Users\Sheshan\Documents\MedTechHack2017\MedTech2017\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5b2e64638e6b152062ebdd6c9ccdd16041c86418\classes.dex" />
     </item>
 
 </items>
