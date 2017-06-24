@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:text="Your recent scan shows that your WBC count is abnormally high. Your WBC is above the threshold of 100 cells/ul. As such, you may be experiencing an infection. We recommend that you contact your care team(doctor and/or family). The phone number you've entered for your doctor is 852 2255 3838."
+        android:layout_above="@+id/btnScan"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp" />
+
+    <Button
+        android:id="@+id/btnScan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Call Now"
+        android:visibility="visible"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="200dp" />
+</RelativeLayout>

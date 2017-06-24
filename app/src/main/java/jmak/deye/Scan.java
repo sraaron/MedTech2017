@@ -188,7 +188,7 @@ public class Scan extends AppCompatActivity {
                 new DataPoint(14, 50),
                 new DataPoint(16, 75),
                 new DataPoint(18, 80),
-                new DataPoint(20, 115),
+                new DataPoint(20, 95[]),
         });
 
 

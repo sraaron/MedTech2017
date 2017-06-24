@@ -21,9 +21,16 @@ import org.opencv.imgproc.Imgproc;
 
 import android.Manifest;
 import android.app.Activity;
+import android.app.Notification;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
+import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.NotificationCompat;
+import android.support.v4.app.TaskStackBuilder;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.MotionEvent;
@@ -104,6 +111,24 @@ public class ColorBlobDetectionActivity extends Activity implements OnTouchListe
         }
     }
 
+    public void showNotification() {
+
+        NotificationCompat.Builder builder = new NotificationCompat.Builder(this);
+        builder.setSmallIcon(R.drawable.ic_notifications_black_24dp);
+        builder.setContentTitle("Warning: Contact your Care Team"); //sets the content title for notification
+        builder.setContentText("Your recent scan shows that your WBC count is abnormally high."); //sets content for notification
+        builder.setDefaults(Notification.DEFAULT_ALL);
+        builder.setPriority(NotificationCompat.PRIORITY_HIGH);
+        Intent intent = new Intent(this, NotificationClass.class); //create new Intent for stacking a new activity
+        TaskStackBuilder stackBuilder = TaskStackBuilder.create(this);
+        stackBuilder.addParentStack(NotificationClass.class);
+        stackBuilder.addNextIntent(intent);
+        PendingIntent pendingIntent = stackBuilder.getPendingIntent(0, PendingIntent.FLAG_UPDATE_CURRENT);
+        builder.setContentIntent(pendingIntent);
+        NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+        notificationManager.notify(001, builder.build());
+    }
+
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -151,7 +176,7 @@ public class ColorBlobDetectionActivity extends Activity implements OnTouchListe
                         min = entry;
                     }
                 }
-                System.out.println(min.getKey());
+                showNotification();
             }
         });
         /*
