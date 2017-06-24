@@ -29,5 +29,7 @@ dependencies {
     compile 'com.android.support:design:25.+'
     compile 'com.android.support:support-vector-drawable:25.+'
     testCompile 'junit:junit:4.12'
+    compile 'com.jjoe64:graphview:4.2.1'
+    compile 'joda-time:joda-time:2.9.9'
     compile project(':openCVLibrary310')
 }
