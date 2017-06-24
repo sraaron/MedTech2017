@@ -4,7 +4,12 @@
     <string name="title_scan">Scan</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_history">History</string>
+    <string name="history_description">History:\n
+                    \n
+                    Here you can find all the past historical tests you have taken.
+                    You will be notified if your white blood cell levels reach a level of possible infection.</string>
     <string name="title_notifications">Notifications</string>
-    <string name="scan_description"> Welcome to D.eye! Press the scan button below
-    to initiate the scan.</string>
+    <string name="scan_description"> Welcome to D.eye! Please make sure that your phone
+                    is aligned inside the case. Press the scan button below
+                    to initiate the scan after inserting the strip in the proper position. </string>
 </resources>
